@@ -7,7 +7,7 @@ This game is powered by html, php, javascript, and mysql.
 
 There is a data encryption when passing the data to server, but it is somewhat weak.
 
-Example : http://carpedm20.us.to/snake
+Example : http://carpedm20.blogspot.kr/2013/08/php-snake.html
 
 Contact : carpedm20@gmail.com
 
